@@ -3,6 +3,7 @@ using Convex
 using Convex: DotMultiplyAtom
 using SDPA
 using Random
+using Test
 
 import LinearAlgebra.eigen
 import LinearAlgebra.I
