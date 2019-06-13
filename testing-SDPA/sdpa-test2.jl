@@ -26,9 +26,9 @@ solvers = [SDPASolver(Mode=PARAMETER_UNSTABLE_BUT_FAST)]
     include(joinpath("test", "test_const.jl"))
     include(joinpath("test", "test_affine.jl"))
     include(joinpath("test", "test_lp.jl"))
-    include(joinpath("test", "test_socp.jl"))
+    # include(joinpath("test", "test_socp.jl"))
     include(joinpath("test", "test_sdp.jl"))
-    include(joinpath("test", "test_exp.jl"))
-    include(joinpath("test", "test_sdp_and_exp.jl"))
-    include(joinpath("test", "test_mip.jl"))
+    # include(joinpath("test", "test_exp.jl"))
+    # include(joinpath("test", "test_sdp_and_exp.jl"))
+    # include(joinpath("test", "test_mip.jl"))
 end
