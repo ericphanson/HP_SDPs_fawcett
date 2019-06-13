@@ -1,0 +1,79 @@
+-------------------------------
+/home/eh540/code/HP_SDPs_fawcett/testing-SDPA
+Running on host skl02
+Time is Wed 12 Jun 02:03:32 BST 2019
+SLURM_NODES are skl02
+SLURM JobID is 331649
+-------------------------------
+
+
+
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+┌ Info: Threading setting: 
+└   ENV["OMP_NUM_THREADS"] = "1"
+[ Info: Start of runs
+[ Info: First run
+[ Info: 2nd run
+[ Info: 3rd run
+[ Info: Benchmark run:
+[ Info: End of runs.
+ 11.488314 seconds (23.40 M allocations: 1.138 GiB, 4.25% gc time)
+  3.685479 seconds (236.70 k allocations: 17.155 MiB, 0.51% gc time)
+  3.701084 seconds (236.70 k allocations: 17.155 MiB, 1.53% gc time)
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+┌ Info: Threading setting: 
+└   ENV["OMP_NUM_THREADS"] = "4"
+[ Info: Start of runs
+[ Info: First run
+[ Info: 2nd run
+[ Info: 3rd run
+[ Info: Benchmark run:
+[ Info: End of runs.
+ 11.492501 seconds (23.42 M allocations: 1.138 GiB, 4.46% gc time)
+  3.645739 seconds (236.70 k allocations: 17.155 MiB, 0.14% gc time)
+  3.670420 seconds (236.70 k allocations: 17.155 MiB, 0.40% gc time)
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+┌ Info: Threading setting: 
+└   ENV["OMP_NUM_THREADS"] = "8"
+[ Info: Start of runs
+[ Info: First run
+[ Info: 2nd run
+[ Info: 3rd run
+[ Info: Benchmark run:
+[ Info: End of runs.
+ 11.600694 seconds (23.42 M allocations: 1.138 GiB, 4.55% gc time)
+  3.657110 seconds (236.70 k allocations: 17.155 MiB, 0.14% gc time)
+  3.672248 seconds (236.70 k allocations: 17.155 MiB, 0.16% gc time)
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+┌ Info: Threading setting: 
+└   ENV["OMP_NUM_THREADS"] = "12"
+[ Info: Start of runs
+[ Info: First run
+[ Info: 2nd run
+[ Info: 3rd run
+[ Info: Benchmark run:
+[ Info: End of runs.
+ 11.461560 seconds (23.42 M allocations: 1.138 GiB, 4.46% gc time)
+  3.652121 seconds (236.70 k allocations: 17.155 MiB, 0.14% gc time)
+  3.663770 seconds (236.70 k allocations: 17.155 MiB, 0.16% gc time)
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+┌ Info: Threading setting: 
+└   ENV["OMP_NUM_THREADS"] = "16"
+[ Info: Start of runs
+[ Info: First run
+[ Info: 2nd run
+[ Info: 3rd run
+[ Info: Benchmark run:
+[ Info: End of runs.
+ 11.521482 seconds (23.42 M allocations: 1.138 GiB, 4.47% gc time)
+  3.849048 seconds (236.70 k allocations: 17.155 MiB, 0.13% gc time)
+  3.490048 seconds (236.70 k allocations: 17.155 MiB, 0.16% gc time)
