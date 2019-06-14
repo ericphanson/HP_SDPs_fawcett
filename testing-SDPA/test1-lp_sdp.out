@@ -1,0 +1,282 @@
+-------------------------------
+/home/eh540/code/HP_SDPs_fawcett/testing-SDPA
+Running on host skl01
+Time is Thu 13 Jun 14:30:18 BST 2019
+SLURM_NODES are skl01
+SLURM JobID is 332134
+-------------------------------
+
+
+
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+maxIteration is reached :: line 206 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+pdINF criteria :: line 1192 in sdpa_parts.cpp
+cholesky miss condition :: not positive definite :: info = 5 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+cholesky miss condition :: not positive definite :: info = 27 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 27 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+cholesky miss condition :: not positive definite :: info = 16 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 16 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 24 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 24 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 25 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 25 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 16 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 25 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 17 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 27 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+cholesky miss condition :: not positive definite :: info = 14 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+[ Info: Starting tests with mode PARAMETER_DEFAULT
+┌ Warning: Problem status Suboptimal; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Infeasible; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Suboptimal; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Uninitialized; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Suboptimal; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Uninitialized; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Suboptimal; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Suboptimal; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Suboptimal; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Uninitialized; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Suboptimal; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Uninitialized; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+ERROR: LoadError: Some tests did not pass: 284 passed, 14 failed, 0 errored, 0 broken.
+in expression starting at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/sdpa-test1.jl:24
+Solution object has dual value, checking for dual correctness.
+Solution object has dual value, checking for dual correctness.
+Solution object has dual value, checking for dual correctness.
+Solution object has dual value, checking for dual correctness.
+pos atom: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:85
+  Expression: ≈(p.optval, 3, atol=TOL)
+   Evaluated: 2.235153317451477 ≈ 3 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:85
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:80
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+pos atom: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:86
+  Expression: ≈(evaluate(sum(pos(x))), 3, atol=TOL)
+   Evaluated: 3.0026796423790074 ≈ 3 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:86
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:80
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+neg atom: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:94
+  Expression: ≈(p.optval, 1, atol=TOL)
+   Evaluated: 0.9847759806458971 ≈ 1 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:94
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:90
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+dotsort atom: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:135
+  Expression: ≈(p.optval, 19, atol=TOL)
+   Evaluated: 18.82654525140788 ≈ 19 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:135
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:131
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+dotsort atom: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:143
+  Expression: ≈(p.optval, 19, atol=TOL)
+   Evaluated: 18.996433390920174 ≈ 19 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:143
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:131
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+lambda max atom: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:89
+  Expression: ≈(p.optval, 4, atol=TOL)
+   Evaluated: 3.994593686053471 ≈ 4 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:89
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:85
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+lambda min atom: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:98
+  Expression: ≈(p.optval, 2, atol=TOL)
+   Evaluated: 2.0039587470461657 ≈ 2 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:98
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:94
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+matrix frac atom: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:108
+  Expression: ≈(p.optval, 7, atol=TOL)
+   Evaluated: 6.989602511571973 ≈ 7 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:108
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:103
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+matrix frac atom: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:109
+  Expression: ≈((evaluate(matrixfrac(x, P)))[1], 7, atol=TOL)
+   Evaluated: 7.003377778326826 ≈ 7 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:109
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:103
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+sum largest eigs: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:126
+  Expression: ≈(p.optval, 3, atol=TOL)
+   Evaluated: 2.998974191923804 ≈ 3 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:126
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:123
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+sum largest eigs: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:127
+  Expression: ≈(evaluate(x), ones(3, 3), atol=TOL)
+   Evaluated: [1.00052 1.00037 1.00037; 1.00037 1.00052 1.00037; 1.00037 1.00037 1.00052] ≈ [1.0 1.0 1.0; 1.0 1.0 1.0; 1.0 1.0 1.0] (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:127
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:123
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+sum largest eigs: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:132
+  Expression: ≈(p.optval, 8.4853, atol=TOL)
+   Evaluated: 8.32283707061699 ≈ 8.4853 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:132
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:123
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+sum largest eigs: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:142
+  Expression: ≈(p1.optval, p2.optval, atol=TOL)
+   Evaluated: 3.994593686053471 ≈ 3.9997908038026604 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:142
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:123
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+sum largest eigs: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:152
+  Expression: ≈(p1.optval, p2.optval, atol=TOL)
+   Evaluated: 8.436082966280056 ≈ 8.47460536347954 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:152
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_sdp.jl:123
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+8.436082966280056
+Test Summary:                                                                        | Pass  Fail  Total
+Convex Mode=PARAMETER_DEFAULT                                                        |  284    14    298
+  Utilities                                                                          |   54           54
+  Constant variables: SDPASolver(Dict{Symbol,Any}(:Mode=>ParameterType(0x00000000))) |    5            5
+  Affine Atoms: SDPASolver(Dict{Symbol,Any}(:Mode=>ParameterType(0x00000000)))       |  127          127
+  LP Atoms: SDPASolver(Dict{Symbol,Any}(:Mode=>ParameterType(0x00000000)))           |   47     5     52
+    abs atom                                                                         |    6            6
+    maximum atom                                                                     |    3            3
+    minimum atom                                                                     |    6            6
+    max atom                                                                         |    3            3
+    min atom                                                                         |    3            3
+    pos atom                                                                         |    1     2      3
+    neg atom                                                                         |    2     1      3
+    sumlargest atom                                                                  |    6            6
+    sumsmallest atom                                                                 |    6            6
+    dotsort atom                                                                     |    5     2      7
+    hinge loss atom                                                                  |             No tests
+    norm inf atom                                                                    |    3            3
+    norm 1 atom                                                                      |    3            3
+  SDP Atoms: SDPASolver(Dict{Symbol,Any}(:Mode=>ParameterType(0x00000000)))          |   51     9     60
+    sdp variables                                                                    |    5            5
+    sdp constraints                                                                  |    1            1
+    nuclear norm atom                                                                |    3            3
+    operator norm atom                                                               |    3            3
+    sigma max atom                                                                   |    3            3
+    lambda max atom                                                                  |    2     1      3
+    lambda min atom                                                                  |    2     1      3
+    matrix frac atom                                                                 |    1     2      3
+    matrix frac atom both arguments variable                                         |    3            3
+    sum largest eigs                                                                 |          5      5
+    kron atom                                                                        |    2            2
+    Partial trace                                                                    |    9            9
+    Optimization with complex variables                                              |   17           17

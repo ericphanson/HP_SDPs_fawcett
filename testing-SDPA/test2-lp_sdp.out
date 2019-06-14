@@ -1,0 +1,125 @@
+-------------------------------
+/home/eh540/code/HP_SDPs_fawcett/testing-SDPA
+Running on host skl02
+Time is Thu 13 Jun 14:30:18 BST 2019
+SLURM_NODES are skl02
+SLURM JobID is 332135
+-------------------------------
+
+
+
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Step length is too small.  :: line 198 in sdpa_dataset.cpp
+cannot move: step length is too short :: line 176 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+cholesky miss condition :: not positive definite :: info = 27 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 25 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+cholesky miss condition :: not positive definite :: info = 16 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 21 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+cholesky miss condition :: not positive definite :: info = 23 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 25 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 16 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 27 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+cholesky miss condition :: not positive definite :: info = 16 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+Strange behavior : primal < dual :: line 144 in sdpa_solve.cpp
+cholesky miss condition :: not positive definite :: info = 9 :: line 785 in sdpa_linear.cpp
+There are some possibilities. :: line 786 in sdpa_linear.cpp
+1. SDPA terminates due to inaccuracy of numerical error :: line 787 in sdpa_linear.cpp
+2. The input problem may not have (any) interior-points :: line 788 in sdpa_linear.cpp
+3. Input matrices are linearly dependent :: line 789 in sdpa_linear.cpp
+[ Info: Starting tests with mode PARAMETER_UNSTABLE_BUT_FAST
+┌ Warning: Problem status Uninitialized; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Uninitialized; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Suboptimal; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+┌ Warning: Problem status Uninitialized; solution may be inaccurate.
+└ @ Convex ~/.julia/packages/Convex/GmYKQ/src/solution.jl:48
+ERROR: LoadError: Some tests did not pass: 297 passed, 1 failed, 0 errored, 0 broken.
+in expression starting at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/sdpa-test2.jl:24
+Solution object has dual value, checking for dual correctness.
+Solution object has dual value, checking for dual correctness.
+Solution object has dual value, checking for dual correctness.
+Solution object has dual value, checking for dual correctness.
+dotsort atom: Test Failed at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:135
+  Expression: ≈(p.optval, 19, atol=TOL)
+   Evaluated: 18.99891502846731 ≈ 19 (atol=0.001) 
+Stacktrace:
+ [1] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:135
+ [2] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1083
+ [3] top-level scope at /home/eh540/code/HP_SDPs_fawcett/testing-SDPA/test/test_lp.jl:131
+ [4] top-level scope at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.1/Test/src/Test.jl:1156
+8.48522595147339
+Test Summary:                                                                        | Pass  Fail  Total
+Convex Mode=PARAMETER_UNSTABLE_BUT_FAST                                              |  297     1    298
+  Utilities                                                                          |   54           54
+  Constant variables: SDPASolver(Dict{Symbol,Any}(:Mode=>ParameterType(0x00000001))) |    5            5
+  Affine Atoms: SDPASolver(Dict{Symbol,Any}(:Mode=>ParameterType(0x00000001)))       |  127          127
+  LP Atoms: SDPASolver(Dict{Symbol,Any}(:Mode=>ParameterType(0x00000001)))           |   51     1     52
+    abs atom                                                                         |    6            6
+    maximum atom                                                                     |    3            3
+    minimum atom                                                                     |    6            6
+    max atom                                                                         |    3            3
+    min atom                                                                         |    3            3
+    pos atom                                                                         |    3            3
+    neg atom                                                                         |    3            3
+    sumlargest atom                                                                  |    6            6
+    sumsmallest atom                                                                 |    6            6
+    dotsort atom                                                                     |    6     1      7
+    hinge loss atom                                                                  |             No tests
+    norm inf atom                                                                    |    3            3
+    norm 1 atom                                                                      |    3            3
+  SDP Atoms: SDPASolver(Dict{Symbol,Any}(:Mode=>ParameterType(0x00000001)))          |   60           60
